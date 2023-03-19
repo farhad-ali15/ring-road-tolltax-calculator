@@ -1,0 +1,72 @@
+[
+  {
+    "boothId": 1,
+    "location": {
+      "type": "Point",
+      "coordinates": [74.384229, 31.494221]
+    }
+  },
+  {
+    "boothId": 2,
+    "location": {
+      "type": "Point",
+      "coordinates": [74.372234, 31.494586]
+    }
+  },
+  {
+    "boothId": 3,
+    "location": {
+      "type": "Point",
+      "coordinates": [74.360037, 31.494742]
+    }
+  },
+  {
+    "boothId": 4,
+    "location": {
+      "type": "Point",
+      "coordinates": [74.348000, 31.495137]
+    }
+  },
+  {
+    "boothId": 5,
+    "location": {
+      "type": "Point",
+      "coordinates": [74.336175, 31.495526]
+    }
+  },
+  {
+    "boothId": 6,
+    "location": {
+      "type": "Point",
+      "coordinates": [74.324497, 31.495902]
+    }
+  },
+  {
+    "boothId": 7,
+    "location": {
+      "type": "Point",
+      "coordinates": [74.313011, 31.496230]
+    }
+  },
+  {
+    "boothId": 8,
+    "location": {
+      "type": "Point",
+      "coordinates": [74.301741, 31.496489]
+    }
+  },
+  {
+    "boothId": 9,
+    "location": {
+      "type": "Point",
+      "coordinates": [74.290709, 31.496707]
+    }
+  },
+  {
+    "boothId": 10,
+    "location": {
+      "type": "Point",
+      "coordinates": [74.279935, 31.496842]
+    }
+  }
+]

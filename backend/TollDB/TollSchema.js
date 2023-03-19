@@ -2,11 +2,11 @@ import mongoose from "mongoose";
 
 const TollTaxSchema = new mongoose.Schema({
   entryPoint: {
-    type: String,
+    type: Number,
     required: true,
   },
   exitPoint: {
-    type: String,
+    type: Number,
     required: true,
   },
   dayOfWeek: {

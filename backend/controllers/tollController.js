@@ -20,7 +20,7 @@ const tollController = async (req, res, next) => {
       tollTax,
     });
 
-    res.json(tollTaxRecord.tollTax);
+    res.json(tollTaxRecord);
   } catch (error) {
     console.error(error);
     res.status(500).json({ error: "Failed to save toll tax to database" });
